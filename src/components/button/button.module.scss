@@ -1,0 +1,19 @@
+$primary-color: #00f0e0;
+
+.button {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  font-family: Arial, Helvetica, sans-serifS;
+
+
+label {
+  font-size: 30px;
+}
+
+button {
+  font-style: oblique;
+  font-variant: small-caps;
+  cursor: pointer;
+}
+}
